@@ -50,7 +50,7 @@ AI-Lab/
 ├── README.md
 └── requirements.txt
 ```
-##🚀 How to Run
+## 🚀 How to Run
 
 Clone the repository
 ```
